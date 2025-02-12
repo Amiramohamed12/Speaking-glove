@@ -1,5 +1,4 @@
-
-#Speaking Glove for Deaf and Dumb People
+Speaking Glove for Deaf and Dumb People
 
 📌 Project Overview
 
