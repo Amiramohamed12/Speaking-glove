@@ -1,5 +1,5 @@
 
-Speaking Glove for Deaf and Mute People
+#Speaking Glove for Deaf and Dumb People
 
 📌 Project Overview
 
